@@ -49,3 +49,17 @@ The graphical user interface (GUI) consists of the following sections:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Subst_Tech.git
+
+2. Navigate to the Project Directory :
+   cd Subst_Tech
+
+3. Run the main.py file
+
+   Author
+Developed by Your Name.
+Portfolio and project details can be found on GitHub.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+This format is ready to be used as a `README.md` file for your project. Be sure to replace `raunakjha786` and `https://github.com/raunakjha786` with your actual GitHub username or profile link!
+
